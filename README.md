@@ -22,20 +22,20 @@
 
 ### <span style="color: #FF6B9D">🎯 Current Focus</span>
 
-- <span style="color: #00CED1">🥽 Beacon Vision & wearable AI assistive tech for visually impaired (Raspberry Pi, real-time vision)</span>
+- <span style="color: #00CED1">🥽 Beacon Vision: A wearable AI assistive tech for visually impaired</span>
 
 - <span style="color: #FFD700">🤖 AI Agents & Automation (AutoMarketer for MSMEs from GDG Agentathon Team Fortuner)</span>
 
-- <span style="color: #FF1493">🔐 Cybersecurity, Blockchain (Hyperledger, Ethereum), Digital Forensics</span>
+- <span style="color: #FF1493">🔐 Cybersecurity, Blockchain, Digital Forensics</span>
 
-- <span style="color: #90EE90">☁️ Edge AI/Cloud IoT (YOLO, MobileNet-SSD, sensors, GSM modules)</span>
+- <span style="color: #90EE90">☁️ Edge AI/Cloud IoT </span>
 
 ---
 
 ### <span style="color: #00D9FF">💡 Interests</span>
 
 - <span style="color: #FF6B9D">Hackathons & rapid prototyping (GDG Hyderabad events)</span>
-- <span style="color: #00CED1">Embedded hardware (Raspberry Pi, ESP32, sensors, SIM900A)</span>
+- <span style="color: #00CED1">Embedded hardware (Raspberry Pi, ESP32, sensors)</span>
 - <span style="color: #FFD700">Open source, full-stack IoT/AI projects with real impact</span>
 - <span style="color: #FF1493">Model optimization, edge computing, secure systems</span>
 
@@ -50,7 +50,7 @@
 ### <span style="color: #FF6B9D">📍 Connect With Me</span>
 
 * <span style="color: #00D9FF">🌍 I'm based in India</span>
-* <span style="color: #FF1493">🖥️ See my portfolio at [(coming soon with Beacon Vision & AutoMarketer repos)](http://github.com/srinath-manda)</span>
+* <span style="color: #FF1493">🖥️ See my portfolio at (http://github.com/srinath-manda)</span>
 * <span style="color: #00CED1">✉️ You can contact me at [mandasrinath16@gmail.com](mailto:mandasrinath16@gmail.com)</span>
 * <span style="color: #FFD700">👥 I'm looking to collaborate on IoT/AI accessibility projects & hackathons and Open-source security tools & wearable AI hardware</span>
 * <span style="color: #90EE90">💬 Ask me about CTF challenges, late-night Raspberry Pi experiments, and turning hackathon ideas into real impact. "Debugging at 2AM > sleep" 🐍</span>
